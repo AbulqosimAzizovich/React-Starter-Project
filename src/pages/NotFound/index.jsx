@@ -1,13 +1,13 @@
 
-import "./style.scss";
+import "./style.scss"
 
 const index = () => {
     return (
-        <footer>
+        <section>
             <div className="container">
-                <h1>Footer</h1>
+                <h1>404 Error</h1>
             </div>
-        </footer>
+        </section>
     );
 };
 

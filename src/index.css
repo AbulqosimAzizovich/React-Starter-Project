@@ -9,18 +9,16 @@
   scroll-behavior: smooth;
 }
 
-a{
+a {
   text-decoration: none;
 }
-
-ul{
+ul {
   list-style-type: none;
 }
 
-body{
+body {
   font-family: sans-serif;
 }
-
 
 .container{
   max-width: 1240px;
